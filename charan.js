@@ -1,2 +1,3 @@
-let name= "revanth"
-console.log(`this is ${name}`)
+let x=1;
+let message = (x==2)?"Erripuku revanth":"SkilluRevanth .."
+console.log(message)
